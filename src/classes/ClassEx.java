@@ -31,8 +31,8 @@ class Student2 {
 public class ClassEx {
     public static void main(String[] args) {
         Student2[] s = new Student2[2];
-        s[0] = new Student2("김하나", 18, 20);
-        s[1] = new Student2("이지호", 18, 90);
+        s[0] = new Student2("홍길동", 18, 20);
+        s[1] = new Student2("김철수", 18, 90);
 
         for (Student2 student : s) {
             student.show();
