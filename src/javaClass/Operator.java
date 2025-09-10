@@ -6,8 +6,8 @@ public class Operator {
         int b = 3;
 
         String str = "hi";
-        String name = "김하나";
-        String be = "바보";
+        String name = "짱구는";
+        String be = "못말려";
 
         System.out.println(a/(double) b);
         System.out.println(str + " * " + b);
