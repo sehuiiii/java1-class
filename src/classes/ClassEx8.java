@@ -28,9 +28,9 @@ class Construct {
 
 public class ClassEx8 {
     public static void main(String[] args) {
-        Construct c1 = new Construct("박세희", 18, 1000);
+        Construct c1 = new Construct("홍길동", 18, 100);
         Construct c2 = new Construct();
-        Construct c3 = new Construct("박세희");
+        Construct c3 = new Construct("홍길동");
         c1.print();
         c2.print();
         c3.print();
